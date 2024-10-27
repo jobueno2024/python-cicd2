@@ -1,0 +1,13 @@
+{
+    "name": "Python Development",
+    "dockerComposeFile": "../docker-compose.yml",
+    "workspaceFolder": "/app",
+    "service": "sample",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "ms-python.python"
+        ]
+      }
+    }
+  }
